@@ -1331,7 +1331,9 @@ textarea:focus {
   .section_header h2 {
     font-size: 2.5rem;
   }
-
+  .works img{
+    width: 500px;
+  }
   .header {
     height: auto;
     padding: 2rem 0;
@@ -1484,7 +1486,9 @@ textarea:focus {
     padding: 1.5rem 2rem;
     padding-bottom: 3rem;
   }
-
+  .works img{
+    width: 300px;
+  } 
   .form h2 {
     margin-bottom: 1rem;
     font-size: 1.4rem;
